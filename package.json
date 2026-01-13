@@ -4,7 +4,7 @@
   "main": "app.mjs",
   "type": "module",
   "scripts": {
-    "start": "node server.mjs",
+    "start": "node app.mjs",
     "dev": "nodemon server.mjs"
   },
   "keywords": [],
